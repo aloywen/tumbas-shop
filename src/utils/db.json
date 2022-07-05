@@ -1,0 +1,234 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "nama": "Bag"
+    },
+    {
+      "id": 2,
+      "nama": "Shoes"
+    },
+    {
+      "id": 3,
+      "nama": "Cardigan"
+    },
+    {
+      "id": 4,
+      "nama": "Hoodie"
+    },
+    {
+      "id": 5,
+      "nama": "Watch"
+    },
+    {
+      "id": 6,
+      "nama": "Pants"
+    },
+    {
+      "id": 7,
+      "nama": "Shirt"
+    },
+    {
+      "id": 8,
+      "nama": "Men"
+    },
+    {
+      "id": 9,
+      "nama": "Women"
+    }
+  ],
+  "hero": [
+    {
+      "id": 1,
+      "nama": "Women's Bags",
+      "gambar": "tas.png"
+    },
+    {
+      "id": 2,
+      "nama": "Discount Up To 50%",
+      "gambar": "discounts.png"
+    },
+    {
+      "id": 3,
+      "nama": "Free Shipping",
+      "gambar": "free-ship.png"
+    }
+  ],
+  "special": [
+    {
+      "id": 1,
+      "nama": "Running Shoes",
+      "gambar": "running-shoes.jpg",
+      "harga": 125000,
+      "disc": 95000
+    },
+    {
+      "id": 2,
+      "nama": "Long Pants Chinos",
+      "gambar": "chinos.jpg",
+      "harga": 135000,
+      "disc": 99999
+    },
+    {
+      "id": 3,
+      "nama": "Green Cable Cardigan",
+      "gambar": "cardigan.jpg",
+      "harga": 145000,
+      "disc": 109999
+    }
+  ],
+  "terlaris": [
+    {
+      "id": 1,
+      "nama": "Vitamin C",
+      "gambar": "c1000.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Kacamata",
+      "gambar": "kacamata.png"
+    },
+    {
+      "id": 3,
+      "nama": "Masker",
+      "gambar": "masker.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "Laptop",
+      "gambar": "lapt.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Black Cardigan",
+      "harga": 120000,
+      "gambar": "cardigan.jfif"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Winter Hoodie",
+      "harga": 99000,
+      "gambar": "hoodie.webp"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Anonimous Hoodie",
+      "harga": 130000,
+      "gambar": "h-anonymous.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Converse All Star",
+      "harga": 230000,
+      "gambar": "converse.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Grey Cardigan",
+      "harga": 132000,
+      "gambar": "3.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "RUNDMC Hoodie",
+      "harga": 170000,
+      "gambar": "rundmc.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Ice Cream Hat",
+      "harga": 97000,
+      "gambar": "hat-ice.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Smile Shoes",
+      "harga": 110000,
+      "gambar": "patuc.jpg"
+    }
+  ],
+  "help": [
+    {
+      "id": 1,
+      "nama": "Delivery"
+    },
+    {
+      "id": 2,
+      "nama": "Payment"
+    },
+    {
+      "id": 3,
+      "nama": "Track Your Order"
+    },
+    {
+      "id": 4,
+      "nama": "About Your Account"
+    },
+    {
+      "id": 5,
+      "nama": "Exchange And Return"
+    },
+    {
+      "id": 6,
+      "nama": "Terms And Codition"
+    }
+  ],
+  "payment": [
+    {
+      "id": 1,
+      "gambar": "alfamart.png"
+    },
+    {
+      "id": 2,
+      "gambar": "alfamidi.png"
+    },
+    {
+      "id": 3,
+      "gambar": "indomart.png"
+    },
+    {
+      "id": 4,
+      "gambar": "bni.png"
+    },
+    {
+      "id": 5,
+      "gambar": "bca.png"
+    },
+    {
+      "id": 6,
+      "gambar": "bri.png"
+    },
+    {
+      "id": 7,
+      "gambar": "mandiri.png"
+    }
+  ],
+  "shipping": [
+    {
+      "id": 1,
+      "gambar": "jne.png"
+    },
+    {
+      "id": 2,
+      "gambar": "sicepat.png"
+    },
+    {
+      "id": 3,
+      "gambar": "tiki.png"
+    },
+    {
+      "id": 4,
+      "gambar": "jnt.png"
+    }
+  ]
+}
